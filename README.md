@@ -1,6 +1,6 @@
 # The Principles :blue_book:
 
-[![Up to Date](https://github.com/cernii/solid/actions/workflows/maven.yml/badge.svg)](https://github.com/cernii/solid/actions/workflows/maven.yml)
+[![Up to Date](https://github.com/cernii/solid/actions/workflows/maven.yml/badge.svg)](https://github.com/cernii/solid/actions/workflows/maven.yml) [![Up to Date](https://github.com/cernii/solid/actions/workflows/docker.yml/badge.svg)](https://github.com/cernii/solid/actions/workflows/docker.yml)
 
 - S. :point_right: **Single Responsibility** - Each class should have only one sole purpose, and not be filled with the
  excessive functionality.
